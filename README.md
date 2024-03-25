@@ -2,7 +2,7 @@
 
 ## Pre-trained models 
 
-We provide a fine-tuned models based on DepthAnything. You can download [ZodDepth4ToM.pt](https://pan.baidu.com/s/1kTxfJEqAkwHVq548XEAeNA?pwd=4vmm)here.  
+We provide a fine-tuned models based on DepthAnything. You can download [ZodDepth4ToM.pt](https://pan.baidu.com/s/1kTxfJEqAkwHVq548XEAeNA?pwd=4vmm) here.  
 code:4vmm 
 
 And we use the pre-trained models provided by DepthAnything. You can download [depth_anything_vitl14.pth](https://huggingface.co/spaces/LiheYoung/Depth-Anything/blob/main/checkpoints/depth_anything_vitl14.pth) here. 
